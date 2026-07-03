@@ -286,3 +286,6 @@ com\.lge\..*
 
 # OnePlus Framework
 com\.color\.inner\.view\.*
+com\.coloros\.deepthinker
+com\.itgsa\.opensdk\.wm
+com\.oplusx\..*
