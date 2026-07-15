@@ -282,4 +282,7 @@ com\.mediatek\..*
 
 # LG adds
 com\.lge
-com\.lge\..* 
+com\.lge\..*
+
+# OnePlus Framework
+com\.color\.inner\.view\.*
